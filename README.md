@@ -6,8 +6,8 @@ manutenção, instalação, venda e aluguel de compressores de ar em Itapetining
 - Publicado em: https://arnaldohungria.github.io/apcompressores/
 - HTML/CSS/JS puro, sem build. Fotos em `img/` vieram do Instagram @ap_compressores.
 - Logo provisório (manômetro) em `img/logo.svg` — o Instagram não tem logo próprio.
-- Contatos no site: WhatsApp (15) 99779-1920, fixo (15) 3373-6751 (da bio do Instagram),
-  cirooborbon@gmail.com, @ap_compressores.
+- Contatos no site: WhatsApp (15) 99779-1920, cirooborbon@gmail.com, @ap_compressores.
+  (O fixo (15) 3373-6751 da bio do Instagram foi desativado — não usar.)
 
 ## Domínio próprio (quando comprar)
 1. Criar arquivo `CNAME` na raiz com o domínio (ex.: `apcompressores.com.br`).
