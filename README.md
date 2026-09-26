@@ -5,7 +5,8 @@ manutenção, instalação, venda e aluguel de compressores de ar em Itapetining
 
 - **Endereço oficial:** https://apcompressores.web.app (Firebase Hosting, projeto `apcompressores`,
   conta Google pessoal arnaldo@live.jp, plano gratuito Spark).
-- Cópia antiga: https://arnaldohungria.github.io/apcompressores/ (GitHub Pages).
+- GitHub Pages **desativado** em 2026-09-26 (endereço antigo não funciona mais).
+- `qrcode/`: QR Code do endereço oficial (PNG com logo, SVG pra gráfica, cartão 1080x1350). Não é publicado no site.
 - Publicar alteração: `firebase deploy --only hosting` nesta pasta.
 - HTML/CSS/JS puro, sem build. Fotos em `img/` vieram do Instagram @ap_compressores.
 - Logo provisório (manômetro) em `img/logo.svg` — o Instagram não tem logo próprio.
