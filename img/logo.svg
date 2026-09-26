@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AP Compressores">
+  <circle cx="32" cy="32" r="29" fill="#0e1f33"/>
+  <circle cx="32" cy="32" r="26" fill="none" stroke="#2f86de" stroke-width="4"/>
+  <!-- escala do manômetro: 270°, de 225° a -45° -->
+  <g stroke="#cfe0f3" stroke-width="2.2" stroke-linecap="round">
+    <line x1="17.9" y1="46.1" x2="20.7" y2="43.3"/>
+    <line x1="12.1" y1="32" x2="16" y2="32"/>
+    <line x1="17.9" y1="17.9" x2="20.7" y2="20.7"/>
+    <line x1="32" y1="12.1" x2="32" y2="16"/>
+    <line x1="46.1" y1="17.9" x2="43.3" y2="20.7"/>
+  </g>
+  <!-- zona de alta pressão -->
+  <path d="M51.9 32 A19.9 19.9 0 0 1 46.1 46.1" fill="none" stroke="#e5484d" stroke-width="3.2" stroke-linecap="round"/>
+  <!-- ponteiro -->
+  <line x1="32" y1="32" x2="45.5" y2="21" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round"/>
+  <circle cx="32" cy="32" r="4.2" fill="#2f86de" stroke="#ffffff" stroke-width="1.6"/>
+  <text x="32" y="50.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#ffffff" letter-spacing="0.5">AP</text>
+</svg>
